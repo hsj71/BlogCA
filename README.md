@@ -12,3 +12,11 @@ npx shadcn-ui@latest init
 npx shadcn@latest add card button input textarea scroll-area skeleton
 ```
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/1.png" width="250" />
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/3.png" width="250" />
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/4.png" width="250" />
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/5.png" width="250" />
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/6.png" width="250" />
+  <img src="https://raw.githubusercontent.com/hsj71/BlogCA/main/7.png" width="250" />
+</p>
